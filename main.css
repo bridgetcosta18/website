@@ -37,7 +37,8 @@ body{
 
 #REEL_VIDEO{
 	padding: 5%;
-	width:100%;
+	width:80%;
+	height:80%;
 }
 
 #content_R_parent{

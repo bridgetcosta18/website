@@ -35,7 +35,7 @@ body{
 	margin:auto;
 } 
 
-#REEL_VIDEO{
+iframe{
 	padding-top: 5%;
 	width:60%;
 	height:60%;

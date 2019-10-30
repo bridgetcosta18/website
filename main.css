@@ -35,7 +35,9 @@ body{
 	margin:auto;
 } 
 
-
+#REEL_VIDEO{
+	padding: 10%;
+}
 
 #content_R_parent{
 

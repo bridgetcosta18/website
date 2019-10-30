@@ -35,10 +35,9 @@ body{
 	margin:auto;
 } 
 
-iframe{
-	padding-top: 5%;
-	width:60%;
-	height:60%;
+#REEL_VIDEO{
+
+	padding:0%;
 }
 
 #content_R_parent{

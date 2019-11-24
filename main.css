@@ -94,6 +94,14 @@ img{
 #Resume_2019{
 	width:inherit;
 }
+#motion_design_01{
+	width:50%;
+	float:center;
+	margin:0%;
+
+}
+
+
 video{
 	display:block;
 	width:70%;
@@ -131,22 +139,40 @@ font-size:130%;
 
 }
 
-#show_design{
-	float:left;
-	width:35%;
-	height:35%;
-	background-color: blue;
-	margin:6%;
-	padding:10% 0% 10% 0%;
+img, #gfx_img{
+
+	width:100%;
+}
+#images{
+
+	column-count:2;
 }
 
-#project_design{
-float:right;
-	width:35%;
-	height:35%;
-	background-color: blue;
+#left_imgs{
+	float:center;
+	/*width:45%;
+	height:45%;
 	margin:6%;
-	padding:10% 0% 10% 0%;
+	padding:10% 0% 10% 0%;*/
+}
+#right_imgs{
+	float:center;
+	/*width:45%;
+	height:45%;
+	margin:6%;
+	padding:10% 0% 10% 0%;*/
+}
+#show_design{
+	margin-left:50%;
+
+}
+#show_design_02{
+	margin-right:50%;
+
+}
+#motion_design{
+	float:center;
+
 }
 #footercontent{
 margin-top:0%;
@@ -190,12 +216,13 @@ padding-top:90%;
 
 }
 footer{
-	background-color:#c87bb2;
+	background-color:#a6c660;
 	height:10%;
 width:auto;
 text-align:center;
 position:inherit;
 margin-top:auto;
+padding-bottom:3%;
 }
 
 

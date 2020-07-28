@@ -10,26 +10,26 @@ margin:0%;
 #headerJazz01{
 	border-top-style: dotted;
 	border-top-width:3px;
-	border-color:#a6c660;
+	border-color:#a69267;
 	margin-bottom:2%;
 	width:inherit;
 }
 #headerJazz02{
 	border-top-style: dotted;
 	border-top-width:3px;
-	border-color:#7f9c41;
+	border-color:#a69267;
 	margin-top:.2%;
 
 }
 #headerJazz03{
 	border-top-style: dotted;
 	border-top-width:3px;
-	border-color:#4c611f;/*4c611f*/
+	border-color:#a69267;/*4c611f*/
 	margin-top:.2%;
 }
 body{
 
-	background-image: linear-gradient(#353535, #1c1c1c);
+	background-image: linear-gradient(#353535, #18243a);
 	width:100%;
 	display:inline-block;
 	margin:auto;
@@ -49,7 +49,7 @@ body{
  	margin:auto;
  }
 #menu{	
-	background-color: #a6c660;
+	background-color: #a69267;
 }
 
 ul{
@@ -85,7 +85,7 @@ a:link{
 
 }
 a:hover{
-	color:#ffd455;
+	color:#ddb296;
 }
 img{
 	width:20%;
@@ -119,7 +119,7 @@ p{
 #sub{
 	font-size: 150%;
 	border-bottom-style:dotted;
-	border-bottom-color:#a6c660;
+	border-bottom-color:#a69297;
 	border-bottom-width:3;
 	width:50%;
 	padding:3px;
@@ -131,7 +131,7 @@ h3{
 	color:white;
 }
 #highlight{
-background-color:#a6c660;
+background-color:#a69297;
 margin:10px;
 padding:10px;
 font-size:130%;
@@ -173,7 +173,7 @@ img, #gfx_img{
 #footercontent{
 margin-top:0%;
 position:relative;
-background-color: #a6c660;
+background-color: #a69297;
 height:10%;
 padding-top:3%;
 width:150;
@@ -182,7 +182,7 @@ width:150;
 #footerJazz01{
 	border-top-style: dotted;
 	border-top-width:3px;
-	border-color:#4c611f;
+	border-color:#a69297;
 	margin-top:30%;
 	width:100;
 
@@ -191,7 +191,7 @@ width:150;
 #footerJazz02{
 	border-top-style: dotted;
 	border-top-width:3px;
-	border-color:#7f9c41;
+	border-color:#a69297;
 	margin-top:.5%;
 width:100;
 
@@ -199,7 +199,7 @@ width:100;
 #footerJazz03{
 	border-top-style: dotted;
 	border-top-width:3px;
-	border-color:#a6c660;
+	border-color:#a69297;
 	margin-top:.5%;
 width:100;
 
@@ -216,7 +216,7 @@ padding-top:90%;
 padding-top:10%;
 
 footer{
-	background-color:#a6c660;
+	background-color:#a69297;
 	height:10%;
 width:auto;
 text-align:center;

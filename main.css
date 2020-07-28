@@ -29,7 +29,7 @@ margin:0%;
 }
 body{
 
-	background-image: linear-gradient(#353535, #18243a);
+	background-image: linear-gradient(#334b79, #18243a);
 	width:100%;
 	display:inline-block;
 	margin:auto;
@@ -85,7 +85,7 @@ a:link{
 
 }
 a:hover{
-	color:#ddb296;
+	color:#a9cac8;
 }
 img{
 	width:20%;
@@ -127,11 +127,23 @@ p{
 
 h3{
 	font-family:Josefin Sans;
-	font-size:150%;
+	font-size:200%;
 	color:white;
 }
+
+h4{
+	font-family:Josefin Sans;
+	font-size:200%;
+	color:white;
+	border-bottom-style:dotted;
+	border-bottom-color:#ddb296;
+	border-bottom-width:3;
+	width:25%;
+	margin-left:37.5%;
+
+}
 #highlight{
-background-color:#a69297;
+background-color:#a69267;
 margin:10px;
 padding:10px;
 font-size:130%;
@@ -173,7 +185,7 @@ img, #gfx_img{
 #footercontent{
 margin-top:0%;
 position:relative;
-background-color: #a69297;
+background-color: #a69267;
 height:10%;
 padding-top:3%;
 width:150;
@@ -182,7 +194,7 @@ width:150;
 #footerJazz01{
 	border-top-style: dotted;
 	border-top-width:3px;
-	border-color:#a69297;
+	border-color:#a69267;
 	margin-top:30%;
 	width:100;
 
@@ -191,7 +203,7 @@ width:150;
 #footerJazz02{
 	border-top-style: dotted;
 	border-top-width:3px;
-	border-color:#a69297;
+	border-color:#a69267;
 	margin-top:.5%;
 width:100;
 
@@ -199,7 +211,7 @@ width:100;
 #footerJazz03{
 	border-top-style: dotted;
 	border-top-width:3px;
-	border-color:#a69297;
+	border-color:#a69267;
 	margin-top:.5%;
 width:100;
 
@@ -216,7 +228,7 @@ padding-top:90%;
 padding-top:10%;
 
 footer{
-	background-color:#a69297;
+	background-color:#a69267;
 	height:10%;
 width:auto;
 text-align:center;

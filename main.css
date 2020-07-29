@@ -138,10 +138,11 @@ h4{
 	border-bottom-style:dotted;
 	border-bottom-color:#ddb296;
 	border-bottom-width:3;
-	width:25%;
-	margin-left:37.5%;
-
+	width:100%;
+	padding-right:20%;
+	
 }
+
 #highlight{
 background-color:#a69267;
 margin:10px;
@@ -175,11 +176,19 @@ img, #gfx_img{
 }
 #show_design{
 	margin-left:50%;
+	margin-bottom:50%;
 
 }
 #show_design_02{
 	margin-right:50%;
+	margin-bottom:50%;
+	padding-top:31%;
 
+}
+
+#HarryRight{
+
+	margin-top:7%;
 }
 
 #footercontent{
